@@ -23,8 +23,6 @@ foreach($arResult['extensions'] as $ext) {
 <div class="ui-ctl ui-ctl-w25 form-data">
         <button id="authorize" class="ui-btn ui-btn-primary"><?=Loc::getMessage('QA_BUTTON_TEXT')?></button>    
 </div>
-<div id="resultArea">
-</div>
 
 
 
