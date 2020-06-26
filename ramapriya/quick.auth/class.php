@@ -3,7 +3,6 @@
 use Bitrix\Main\Engine\Contract\Controllerable;
 use Bitrix\Main\Engine\ActionFilter;
 use Bitrix\Main\Context;
-use Bitrix\Main\Application;
 use Bitrix\Main\Loader;
 use Bitrix\Main\Localization\Loc;
 use Bitrix\Main\SystemException;
