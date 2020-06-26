@@ -4,7 +4,6 @@ window.onload = function() {
     
     const input = document.getElementById('select_user');
     const button = document.getElementById('authorize');
-    const resultArea = document.getElementById('resultArea');
 
     input.addEventListener('change', () => {
         userId = input.value;
