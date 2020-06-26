@@ -19,3 +19,5 @@ $APPLICATION->IncludeComponent('ramapriya:quick.auth', '', []);
 По умолчанию компонент настроен на выбор интранет-пользователей
 
 Если вам нужна возможность выбора любого пользователя, удалите параметр `userSearchArea` в классе компонента (файл `ramapriya/quick.auth/class.php`, метод `getSelectUserComponentParams`)
+
+[Статья на Хабре](https://habr.com/ru/post/508316/)
